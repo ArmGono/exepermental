@@ -1,0 +1,201 @@
+1515746921338	geckodriver	INFO	geckodriver 0.19.1
+1515746921344	geckodriver	INFO	Listening on 127.0.0.1:54043
+1515746921609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5mr5zhjv9M9B"
+1515746925219	Marionette	INFO	Enabled via --marionette
+1515746931316	Marionette	INFO	Listening on port 44695
+1515746931509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515746931609	Marionette	DEBUG	Register listener.js for window 2147483649
+1515746932127	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515746932814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515746932814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515746933628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.seleniumhq.org/"
+1515746934745	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.seleniumhq.org/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515746961044	geckodriver	INFO	geckodriver 0.19.1
+1515746961049	geckodriver	INFO	Listening on 127.0.0.1:47243
+1515746962208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GhbOA1CmLHuM"
+1515746963347	Marionette	INFO	Enabled via --marionette
+1515746966074	Marionette	INFO	Listening on port 32845
+1515746966232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515746966320	Marionette	DEBUG	Register listener.js for window 2147483649
+1515746966357	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515746966881	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515746966881	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515746967838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://yandex.ru/"
+1515746968164	Marionette	DEBUG	Received DOM event "pageshow" for "https://yandex.ru/"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://yandex.ru
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://passport.yandex.ru
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515747080462	Marionette	DEBUG	Register listener.js for window 2147483675
+1515747080535	Marionette	DEBUG	Register listener.js for window 2147483677
+1515747214822	geckodriver	INFO	geckodriver 0.19.1
+1515747214827	geckodriver	INFO	Listening on 127.0.0.1:41583
+1515747216010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kZHolOXKAeeH"
+1515747218778	Marionette	INFO	Enabled via --marionette
+1515747221885	Marionette	INFO	Listening on port 35989
+1515747221957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515747222023	Marionette	DEBUG	Register listener.js for window 2147483649
+1515747222054	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515747222556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515747222556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515747223282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747223523	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747243811	Marionette	DEBUG	Register listener.js for window 4294967297
+1515747243858	Marionette	DEBUG	Register listener.js for window 4294967299
+1515747253382	Marionette	DEBUG	Register listener.js for window 6442450945
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v8.4.94/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v8.4.94/OvaMediaPlayer.js, line 3: unreachable code after return statement
+1515747305356	geckodriver	INFO	geckodriver 0.19.1
+1515747305360	geckodriver	INFO	Listening on 127.0.0.1:50719
+1515747306498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ym7mvqfgG4w1"
+1515747307203	Marionette	INFO	Enabled via --marionette
+1515747309499	Marionette	INFO	Listening on port 46475
+1515747309649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515747309741	Marionette	DEBUG	Register listener.js for window 2147483649
+1515747309761	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515747310134	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515747310134	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515747310726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747311073	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+
+(/usr/lib/firefox/firefox:8612): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515747347924	geckodriver	INFO	geckodriver 0.19.1
+1515747347928	geckodriver	INFO	Listening on 127.0.0.1:45931
+1515747349055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GtZvAvw9Khfg"
+1515747349760	Marionette	INFO	Enabled via --marionette
+1515747352224	Marionette	INFO	Listening on port 38083
+1515747352358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515747352429	Marionette	DEBUG	Register listener.js for window 2147483649
+1515747352461	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515747352781	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515747352781	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515747353360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747353662	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515747710111	geckodriver	INFO	geckodriver 0.19.1
+1515747710115	geckodriver	INFO	Listening on 127.0.0.1:53905
+1515747711246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5jglvckvNTok"
+1515747711933	Marionette	INFO	Enabled via --marionette
+1515747714400	Marionette	INFO	Listening on port 40159
+1515747714458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515747714523	Marionette	DEBUG	Register listener.js for window 2147483649
+1515747714565	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515747714960	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515747714960	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515747716396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747716399	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1766:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1766, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1766:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1766, column: 11
+JavaScript warning: https://yastatic.net/widgetsapi/3.3/WidgetApi.js, line 1: unreachable code after return statement
+JavaScript warning: https://yastatic.net/widgetsapi/3.3/WidgetApi.js, line 1: unreachable code after return statement
+1515747804129	geckodriver	INFO	geckodriver 0.19.1
+1515747804134	geckodriver	INFO	Listening on 127.0.0.1:55687
+1515747805351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QcTGfvSE47NW"
+1515747807723	Marionette	INFO	Enabled via --marionette
+1515747811324	Marionette	INFO	Listening on port 38657
+1515747811384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515747811450	Marionette	DEBUG	Register listener.js for window 2147483649
+1515747811476	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515747812792	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515747812792	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515747816178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747817412	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747819708	Marionette	DEBUG	Register listener.js for window 4294967297
+1515747819754	Marionette	DEBUG	Register listener.js for window 4294967299
+1515747821886	Marionette	DEBUG	Register listener.js for window 4294967303
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515747890118	geckodriver	INFO	geckodriver 0.19.1
+1515747890122	geckodriver	INFO	Listening on 127.0.0.1:36509
+1515747891253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tLLVsn5ttzjd"
+1515747891963	Marionette	INFO	Enabled via --marionette
+1515747894370	Marionette	INFO	Listening on port 37237
+1515747894475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515747894541	Marionette	DEBUG	Register listener.js for window 2147483649
+1515747894562	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515747894904	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515747894904	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515747895544	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515747895804	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515751215419	geckodriver	INFO	geckodriver 0.19.1
+1515751215441	geckodriver	INFO	Listening on 127.0.0.1:58987
+1515751216561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5HJejJlBzfEj"
+1515751217463	Marionette	INFO	Enabled via --marionette
+1515751221823	Marionette	INFO	Listening on port 45065
+1515751221972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515751222037	Marionette	DEBUG	Register listener.js for window 2147483649
+1515751222063	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515751222500	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515751222500	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515751223453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+1515751223459	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.yandex.ru/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.ru&origin=hostroot_ru_nol_mobile_enter"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515751392582	geckodriver	INFO	geckodriver 0.19.1
+1515751392587	geckodriver	INFO	Listening on 127.0.0.1:35653
+1515751393710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.airwyrcz9KPv"
+1515751394489	Marionette	INFO	Enabled via --marionette
+1515751397103	Marionette	INFO	Listening on port 43549
+1515751397136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515751397204	Marionette	DEBUG	Register listener.js for window 2147483649
+1515751397244	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515751397359	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515751397360	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515751397366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://auto.armrus.net/"
+1515751397387	Marionette	DEBUG	Received DOM event "pageshow" for "http://auto.armrus.net/"
+1515751405858	Marionette	DEBUG	Register listener.js for window 4294967297
+1515751405905	Marionette	DEBUG	Register listener.js for window 4294967299
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515751507027	geckodriver	INFO	geckodriver 0.19.1
+1515751507031	geckodriver	INFO	Listening on 127.0.0.1:45761
+1515751508155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ay2wAX594sFF"
+1515751509264	Marionette	INFO	Enabled via --marionette
+1515751512123	Marionette	INFO	Listening on port 39871
+1515751512382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515751512475	Marionette	DEBUG	Register listener.js for window 2147483649
+1515751512506	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515751512604	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515751512604	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515751512613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://auto.armrus.net/"
+1515751512667	Marionette	DEBUG	Received DOM event "pageshow" for "http://auto.armrus.net/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515751774234	geckodriver	INFO	geckodriver 0.19.1
+1515751774238	geckodriver	INFO	Listening on 127.0.0.1:37321
+1515751775355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gdtieGJAzmxA"
+1515751776072	Marionette	INFO	Enabled via --marionette
+1515751778466	Marionette	INFO	Listening on port 46361
+1515751778590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515751778681	Marionette	DEBUG	Register listener.js for window 2147483649
+1515751778711	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515751780577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515751780577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515751780586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://auto.armrus.net/"
+1515751780618	Marionette	DEBUG	Received DOM event "pageshow" for "http://auto.armrus.net/"
